@@ -1,6 +1,6 @@
 # Multi-Class-Text-Classification-using-PySpark
 
-For this project, *Amazon Reviews Dataset* is used. In the file, each line corresponds to a review in JSON format. The following entries are contained in each dictionary:
+For this project, *Amazon Reviews Dataset* is used. In the file reviews_devset.json, each line corresponds to a review in JSON format. The following entries are contained in each dictionary:
 
 ```
 Sample review:
