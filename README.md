@@ -43,5 +43,5 @@ This project is divided into three parts:
     -   Extend the pipeline from Part 2 to learn a model that can predict the product category from a review's text.
 
 
-*NOTE that this project was a requirement of **Data-intensive Computing** course in **Data Science program** at **Technical University of Vienna**.*
-*The tasks were implemented using **PySpark** and **jupyter notebook 6.0.3** in **18 node Hadoop Cluster at TU Wien***
+*NOTE that this project was a requirement of **Data-intensive Computing** course in **Data Science program** at `Technical University of Vienna`.*
+*The tasks were implemented using **PySpark** and **jupyter-notebook 6.0.3** in **18 node Hadoop Cluster at TU Wien***
