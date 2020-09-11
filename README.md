@@ -44,5 +44,4 @@ This project is divided into three parts:
 
 
 *NOTE that this project was a requirement of **Data-intensive Computing** course in **Data Science program** at **Technical University of Vienna**.*
-
 *The tasks were implemented using **PySpark** and **jupyter notebook 6.0.3** in **18 node Hadoop Cluster at TU Wien***
