@@ -41,3 +41,7 @@ This project is divided into three parts:
     -   Building a **Spark ML Pipeline** to convert the review texts to a classic vector space representation with TFIDF-weighted features based on the Spark DataFrame/Dataset API
 3. Part 3) Text Classification
     -   Extend the pipeline from Part 2 to learn a model that can predict the product category from a review's text.
+
+
+*NOTE that this project was a requirement of Data-intensive Computing course in Data Science program at Technical University of Vienna*
+*The tasks were implemented using **PySpark** and **jupyter notebook 6.0.3** in **18 node Hadoop Cluster at TU Wien***
